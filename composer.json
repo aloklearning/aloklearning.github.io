@@ -1,6 +1,26 @@
 {
-  "require":
-  {
-    "" : ""
-  }
+  "contacts": [
+    { 
+        "id": "c200",
+        "name": "Alok Kumar",
+        "email": "alok@gmail.com",
+        "address": "lucknow"
+        "phone": {
+          "office": "+9100000",
+          "home": "000000"
+        }
+    },
+    
+    {
+        "id": "c200",
+        "name": "Alok Yadav",
+        "email": "gappu@gmail.com",
+        "address": "lucknow"
+        "phone": {
+          "office": "+9100000",
+          "home": "000000"
+        }
+    }
+ ]
+  
 }
