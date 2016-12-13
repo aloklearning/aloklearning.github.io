@@ -1,6 +1,5 @@
-{
-  "contacts": [
-    { 
+[
+       { 
         "id": "c200",
         "name": "Alok Kumar",
         "email": "alok@gmail.com",
@@ -8,8 +7,7 @@
         "phone": {
           "office": "+9100000",
           "home": "000000"
-        }
-    },
+        },
     
     {
         "id": "c200",
@@ -19,8 +17,6 @@
         "phone": {
           "office": "+9100000",
           "home": "000000"
-        }
-    }
- ]
-  
-}
+      }
+   
+]
